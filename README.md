@@ -10,7 +10,7 @@ This repository contains my final project for a Computational Graphics and Visua
 
 This repository contains my final project for a Computational Graphics and Visualization course. The project demonstrates the application of OpenGL and C++ to create an interactive 3D scene based on a 2D reference image of an autumn still life arrangement. The implementation features various 3D objects with textures, lighting effects, and camera navigation capabilities.
 
-![Project Preview Image](preview.png)
+![[Project Preview Image](https://github.com/Ifeoluwa90/Open-GL-3D-design/blob/main/Milestone1.jpg)](preview.png)
 ## Repository Contents
 
 * **3D Scene Application** - A C++ application built with OpenGL that renders the 3D scene
